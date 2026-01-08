@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "e5a0010126941669",
+    "type": "split",
+    "children": [
+      {
+        "id": "221207f243d600d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ca933fa01bfa67e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travaux/MPD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MPD"
+            }
+          },
+          {
+            "id": "7b6d0c076de6ae68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travaux/MLD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLD"
+            }
+          },
+          {
+            "id": "2bf7a97f2c83c1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travaux/Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c11d9085e371d3ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "90eba35d06f9d6e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63402fd0202fbb6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7cf161626da94b36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76571edfd7fa09bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec9b80601ec8fcdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d23f9e547ccb02b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7202637a7615dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Travaux/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Git"
+            }
+          },
+          {
+            "id": "e7482890d628f820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CDC/2. Périmètre fonctionnel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2. Périmètre fonctionnel"
+            }
+          },
+          {
+            "id": "d44e1ee2244fb11f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7eaf7ca5911de18b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "debd44b16c103df8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CDC/2. Périmètre fonctionnel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. Périmètre fonctionnel"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2bf7a97f2c83c1d1",
+  "lastOpenFiles": [
+    "CDC/9. Planning.md",
+    "Travaux/Git.md",
+    "CDC/8. Déploiement.md",
+    "CDC/1. Contexte et objectifs.md",
+    "Travaux/frontend.md",
+    "Travaux/JMerise.md",
+    "Travaux/Maquettes Figma.md",
+    "Travaux/MCD.md",
+    "Travaux/MLD.md",
+    "Travaux/Présentation de soutenance.md",
+    "Travaux/Dossier utilisateur.md",
+    "CDC/10. Livrables attendus.md",
+    "Travaux/Dossier professionnel.md",
+    "CDC/CDC pour le projet NovaSPA (gestion de refuge animalier + adoption + sauvetage).md",
+    "Travaux/Base de données de test.md",
+    "Travaux/backend.md",
+    "Travaux/API REST.md",
+    "Travaux/MPD.md",
+    "Travaux",
+    "CDC/2. Périmètre fonctionnel.md",
+    "CDC/5. Contraintes RGPD.md",
+    "CDC/4. Contraintes techniques.md",
+    "CDC",
+    "Planning.md",
+    "CDC/7. Contraintes de qualité.md",
+    "CDC/6. Contraintes ergonomiques & UX.md",
+    "CDC/3. Fonctionnalités détaillées.md"
+  ]
+}
